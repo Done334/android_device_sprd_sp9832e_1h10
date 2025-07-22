@@ -1,0 +1,1 @@
+# android_device_sprd_sp9832e_1h10
